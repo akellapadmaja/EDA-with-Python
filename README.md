@@ -1,10 +1,10 @@
-# 🏥 Medical Insurance Charges — Exploratory Data Analysis
+## 🏥 Medical Insurance Charges — Exploratory Data Analysis
 
 A structured EDA project on a medical insurance dataset to uncover the key drivers of healthcare charges using Python.
 
 ---
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 This project performs end-to-end Exploratory Data Analysis (EDA) on a medical insurance dataset containing approximately 1,500 records. The goal is to understand data quality, feature distributions, and the factors that most significantly influence insurance charges.
 
@@ -13,7 +13,7 @@ This project performs end-to-end Exploratory Data Analysis (EDA) on a medical in
 ## 📂 Repository Structure
 
 ```
-Medical-Insurance-EDA/
+EDA-with-Python/
 │
 ├── Medical_Cost.csv            # Raw dataset
 ├── MedicalCharges_EDA.ipynb    # Jupyter Notebook with full EDA
@@ -96,7 +96,7 @@ Medical-Insurance-EDA/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/akellapadmaja/Medical-Insurance-EDA.git
+   git clone https://github.com/akellapadmaja/EDA-with-Python.git
    cd Medical-Insurance-EDA
    ```
 

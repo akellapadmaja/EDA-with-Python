@@ -97,7 +97,7 @@ EDA-with-Python/
 1. Clone this repository:
    ```bash
    git clone https://github.com/akellapadmaja/EDA-with-Python.git
-   cd Medical-Insurance-EDA
+   cd EDA-with-Python
    ```
 
 2. Install dependencies (if not already available):
